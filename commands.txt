@@ -1,3 +1,4 @@
 git branch
 git branch woidead
 git checkout woidead
+git pull origin uluk
