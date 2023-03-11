@@ -1,4 +1,9 @@
 git branch
 git branch woidead
 git checkout woidead
+git switch woidead
 git pull origin uluk
+git merge origin/uluk
+git add .
+git commit -m 'woideadcimmit'
+git push
